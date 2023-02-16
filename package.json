@@ -1,0 +1,38 @@
+{
+  "name": "tmm-linux",
+  "version": "22.0.4",
+  "description": "TMM music",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [
+    "nodejs",
+    "main"
+  ],
+  "author": "Lupandin Denys",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^22.0.0"
+  },
+  "dependencies": {
+    "auto-git-update": "^2.1.2",
+    "colors": "^1.4.0",
+    "croxydb": "^0.0.7",
+    "date-and-time": "^2.4.1",
+    "electron-localstorage": "^1.0.5",
+    "fs": "^0.0.1-security",
+    "git": "^0.1.5",
+    "https": "^1.0.0",
+    "kill-process-by-name": "^1.0.5",
+    "md5": "^2.3.0",
+    "mpg321": "^0.1.5",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3",
+    "node-time": "^0.1.0",
+    "path": "^0.12.7",
+    "pm2": "^5.2.2",
+    "shell": "^0.5.1",
+    "shelljs": "^0.8.5"
+  }
+}
