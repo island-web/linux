@@ -2,7 +2,7 @@
 const AutoGitUpdate = require('auto-git-update');
 
 const config = {
-  repository: 'https://github.com/island-web/island-web',
+  repository: 'https://github.com/island-web/linux',
   fromReleases: true,
   tempLocation: '/tmp/'
 }
