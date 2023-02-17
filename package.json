@@ -1,6 +1,6 @@
 {
   "name": "tmm-linux",
-  "version": "22.0.4",
+  "version": "22.0.6",
   "description": "TMM music",
   "main": "main.js",
   "scripts": {
